@@ -1,7 +1,7 @@
 <code_scheme name="Default" version="173">
   <codeStyleSettings language="JAVA">
     <option name="KEEP_LINE_BREAKS" value="false" />
-    <option name="BRACE_STYLE" value="2" />
+    <option name="BRACE_STYLE" value="3" />
     <option name="METHOD_BRACE_STYLE" value="3" />
   </codeStyleSettings>
 </code_scheme>
